@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Cryptocurrency-tracker/static/css/main.b9eae31c.chunk.css",
-    "main.js": "/Cryptocurrency-tracker/static/js/main.06857e6f.chunk.js",
-    "main.js.map": "/Cryptocurrency-tracker/static/js/main.06857e6f.chunk.js.map",
+    "main.js": "/Cryptocurrency-tracker/static/js/main.ed4ee1cf.chunk.js",
+    "main.js.map": "/Cryptocurrency-tracker/static/js/main.ed4ee1cf.chunk.js.map",
     "runtime-main.js": "/Cryptocurrency-tracker/static/js/runtime-main.c89157f7.js",
     "runtime-main.js.map": "/Cryptocurrency-tracker/static/js/runtime-main.c89157f7.js.map",
-    "static/js/2.3c47ef3a.chunk.js": "/Cryptocurrency-tracker/static/js/2.3c47ef3a.chunk.js",
-    "static/js/2.3c47ef3a.chunk.js.map": "/Cryptocurrency-tracker/static/js/2.3c47ef3a.chunk.js.map",
+    "static/js/2.24f5e996.chunk.js": "/Cryptocurrency-tracker/static/js/2.24f5e996.chunk.js",
+    "static/js/2.24f5e996.chunk.js.map": "/Cryptocurrency-tracker/static/js/2.24f5e996.chunk.js.map",
     "index.html": "/Cryptocurrency-tracker/index.html",
-    "precache-manifest.eef66cf05eaa160b7c46ef2de9956956.js": "/Cryptocurrency-tracker/precache-manifest.eef66cf05eaa160b7c46ef2de9956956.js",
+    "precache-manifest.8add9e8512f5d5cc331e5149129dd12c.js": "/Cryptocurrency-tracker/precache-manifest.8add9e8512f5d5cc331e5149129dd12c.js",
     "service-worker.js": "/Cryptocurrency-tracker/service-worker.js",
     "static/css/main.b9eae31c.chunk.css.map": "/Cryptocurrency-tracker/static/css/main.b9eae31c.chunk.css.map",
-    "static/js/2.3c47ef3a.chunk.js.LICENSE.txt": "/Cryptocurrency-tracker/static/js/2.3c47ef3a.chunk.js.LICENSE.txt",
+    "static/js/2.24f5e996.chunk.js.LICENSE.txt": "/Cryptocurrency-tracker/static/js/2.24f5e996.chunk.js.LICENSE.txt",
     "static/media/BCH.jpg": "/Cryptocurrency-tracker/static/media/BCH.cd62a9ab.jpg",
     "static/media/ETH.jpg": "/Cryptocurrency-tracker/static/media/ETH.290012f6.jpg",
     "static/media/TRX.jpg": "/Cryptocurrency-tracker/static/media/TRX.c4d6b6a5.jpg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c89157f7.js",
-    "static/js/2.3c47ef3a.chunk.js",
+    "static/js/2.24f5e996.chunk.js",
     "static/css/main.b9eae31c.chunk.css",
-    "static/js/main.06857e6f.chunk.js"
+    "static/js/main.ed4ee1cf.chunk.js"
   ]
 }
